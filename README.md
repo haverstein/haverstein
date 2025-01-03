@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haverstein&label=Profile%20views&color=0e75b6&style=flat" alt="haverstein" /> </p>
 
-- 🔭 I’m currently working on **Churn modeling using Survival Analysis**
+- 🔭 I’m currently working on **Time Series Forecasting**
 
-- 🌱 I’m currently learning **R ggplot2 and ML algorithms**
+- 🌱 I’m currently learning **machine learning and streamlit**
 
 - 👯 I’m looking to collaborate on **data science projects**
 
